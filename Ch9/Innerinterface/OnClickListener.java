@@ -1,4 +1,4 @@
-package Innerinterface;
+package innerinterface;
 
 public class OnClickListener {
 
