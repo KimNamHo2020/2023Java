@@ -1,4 +1,3 @@
-
 package SyncTest;
 
 public class Calculator {
