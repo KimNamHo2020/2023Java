@@ -1,5 +1,5 @@
-package innerinterface;
+package Innerinterface;
 
-public class OnClickListener {
-
-}
+//public interface OnClickListener {
+//	void onClick();
+//}
